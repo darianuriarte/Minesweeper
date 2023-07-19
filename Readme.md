@@ -21,7 +21,7 @@ This is a Minesweeper game implementation using the SFML library. The game allow
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/minesweeper-game.git
+   git clone https://github.com/darianuriarte/Minesweeper.git
    ```
 
 2. Build the game using your preferred C++ compiler. Make sure to link against the SFML library.
