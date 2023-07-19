@@ -58,5 +58,5 @@ This is a Minesweeper game implementation using the SFML library. The game allow
 
 ## Credits
 
-This Minesweeper game implementation is developed by Darian Uriarte (https://github.com/your-username).](https://github.com/darianuriarte)
+This Minesweeper game implementation is developed by Darian Uriarte (https://github.com/darianuriarte)
 
